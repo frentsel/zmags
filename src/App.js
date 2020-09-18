@@ -1,12 +1,12 @@
-import React from 'react';
 import axios from 'axios';
+import React, { Component } from 'react';
 
 import Article from './Article';
 
 import 'normalize.css';
 import './App.css';
 
-export default class App extends React.Component {
+class App extends Component {
   state = { items: [] };
 
   componentDidMount() {
@@ -43,3 +43,5 @@ export default class App extends React.Component {
     )
   }
 }
+
+export default App;
