@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.7bf37681.chunk.css",
-    "main.js": "/static/js/main.18661012.chunk.js",
-    "main.js.map": "/static/js/main.18661012.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.6b7def9c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.6b7def9c.js.map",
-    "static/css/2.764ccc25.chunk.css": "/static/css/2.764ccc25.chunk.css",
-    "static/js/2.84c4cec4.chunk.js": "/static/js/2.84c4cec4.chunk.js",
-    "static/js/2.84c4cec4.chunk.js.map": "/static/js/2.84c4cec4.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.4b1cc397003139a99e6d86c0a6a31f8d.js": "/precache-manifest.4b1cc397003139a99e6d86c0a6a31f8d.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.764ccc25.chunk.css.map": "/static/css/2.764ccc25.chunk.css.map",
-    "static/css/main.7bf37681.chunk.css.map": "/static/css/main.7bf37681.chunk.css.map",
-    "static/js/2.84c4cec4.chunk.js.LICENSE.txt": "/static/js/2.84c4cec4.chunk.js.LICENSE.txt"
+    "main.css": "/zmags/static/css/main.7bf37681.chunk.css",
+    "main.js": "/zmags/static/js/main.b9ab4983.chunk.js",
+    "main.js.map": "/zmags/static/js/main.b9ab4983.chunk.js.map",
+    "runtime-main.js": "/zmags/static/js/runtime-main.7cb44f90.js",
+    "runtime-main.js.map": "/zmags/static/js/runtime-main.7cb44f90.js.map",
+    "static/css/2.764ccc25.chunk.css": "/zmags/static/css/2.764ccc25.chunk.css",
+    "static/js/2.84c4cec4.chunk.js": "/zmags/static/js/2.84c4cec4.chunk.js",
+    "static/js/2.84c4cec4.chunk.js.map": "/zmags/static/js/2.84c4cec4.chunk.js.map",
+    "index.html": "/zmags/index.html",
+    "precache-manifest.17e4b037f6a5a6b10c26cb912ced2027.js": "/zmags/precache-manifest.17e4b037f6a5a6b10c26cb912ced2027.js",
+    "service-worker.js": "/zmags/service-worker.js",
+    "static/css/2.764ccc25.chunk.css.map": "/zmags/static/css/2.764ccc25.chunk.css.map",
+    "static/css/main.7bf37681.chunk.css.map": "/zmags/static/css/main.7bf37681.chunk.css.map",
+    "static/js/2.84c4cec4.chunk.js.LICENSE.txt": "/zmags/static/js/2.84c4cec4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6b7def9c.js",
+    "static/js/runtime-main.7cb44f90.js",
     "static/css/2.764ccc25.chunk.css",
     "static/js/2.84c4cec4.chunk.js",
     "static/css/main.7bf37681.chunk.css",
-    "static/js/main.18661012.chunk.js"
+    "static/js/main.b9ab4983.chunk.js"
   ]
 }
